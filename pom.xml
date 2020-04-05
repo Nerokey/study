@@ -7,7 +7,6 @@
         <module>study-api</module>
         <module>study-core</module>
         <module>study-common</module>
-        <module>study-schedule</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
